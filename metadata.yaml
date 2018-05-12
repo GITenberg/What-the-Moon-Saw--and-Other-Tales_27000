@@ -1,0 +1,57 @@
+_repo: What-the-Moon-Saw--and-Other-Tales_27000
+_version: 0.1.0
+contributor:
+  engineers:
+  - agent_name: Dalziel, George
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '32424'
+    url: http://www.gutenberg.org/2009/agents/32424
+  - agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+  illustrator:
+    agent_name: Bayes, Alfred Walter
+    alias: Bayes, A. W. (Alfred Walter)
+    birthdate: &id001 1832
+    deathdate: 1909
+    gutenberg_agent_id: '32391'
+    url: http://www.gutenberg.org/2009/agents/32391
+  translator:
+    agent_name: Dulcken, H. W. (Henry William)
+    aliases:
+    - Dulcken, Henry W. (Henry William)
+    - Dulcken, Henry William
+    birthdate: *id001
+    deathdate: 1894
+    gutenberg_agent_id: '4538'
+    url: http://www.gutenberg.org/2009/agents/4538
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, Danish -- Translations into English'
+- !lcsh 'Fairy tales -- Denmark'
+title: 'What the Moon Saw: and Other Tales'
+url: http://www.gutenberg.org/ebooks/27000
