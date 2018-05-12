@@ -15,7 +15,7 @@ contributor:
   illustrator:
     agent_name: Bayes, Alfred Walter
     alias: Bayes, A. W. (Alfred Walter)
-    birthdate: &id001 1832
+    birthdate: 1832
     deathdate: 1909
     gutenberg_agent_id: '32391'
     url: http://www.gutenberg.org/2009/agents/32391
@@ -24,7 +24,7 @@ contributor:
     aliases:
     - Dulcken, Henry W. (Henry William)
     - Dulcken, Henry William
-    birthdate: *id001
+    birthdate: 1832
     deathdate: 1894
     gutenberg_agent_id: '4538'
     url: http://www.gutenberg.org/2009/agents/4538
@@ -41,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27000#What-the-Moon-Saw--and-Other-Tales
 gutenberg_issued: '2008-10-24'
 gutenberg_type: Text
 identifiers:
